@@ -1,15 +1,34 @@
 <h1 align="center">Hi 👋, I'm Dumindu Prabhashana</h1>
-<h3 align="center">A Mechatronic engineer from Sri Lanka</h3>
-
-
-  
-
+<h3 align="center">A MECHATRONIC ENGINEER</h3>
 
 - 🌱 I’m currently learning **AI and Automation**
 
 - 📫 How to reach me **dumindu99522@gmail.com**
 
 - ⚡ Fun fact **call me Dumi**
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dumindu prabhashana) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dumindu99522&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dumindu99522&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dumindu99522&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dumindu99522&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dumindu99522&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=dumindu99522&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <h3 align="left">Connect with me:</h3>
